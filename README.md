@@ -5,7 +5,7 @@ This repository contains the code to train a federated learning model using [NVI
 
 # Darwin Project FL - Setup and Preprocessing
 
-This guide provides step-by-step instructions to set up and preprocess the Darwin Project FL on the University of Sheffield HPC.
+This guide provides step-by-step instructions to set up and preprocess the Darwin Project FL on the University of Sheffield HPC. Please ensure you check any rootes in the files you are running and make sure they match your own personal rootes.
 
 ---
 
