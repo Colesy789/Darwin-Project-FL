@@ -3,16 +3,16 @@
   "components": [
     {
       "id": "semi_supervised_learner",
-      "path": "custom.learners.semi_supervised_learner.SemiSupervisedLearner",
+      "path": "custom_holdout_agnostic.learners.semi_supervised_learner.SemiSupervisedLearner",
       "args": {
-        "n_epoch": 3,
+        "n_epoch": 2,
         "batch_size": 8,
         "lr": 0.0001,
         "n_channels": 3,
         "n_classes": 2,
         "image_size": 384,
-	"split_file": "/path/to/split.json",
-	"data_root": "/path/to/preprocessed_output/segmentation/segdata/data_2d"
+	"split_file": "/users/aca20whc/darwin/Darwin-Project-FL/split_holdout.json",
+	"data_root": "/mnt/parscratch/users/aca20whc/output/segmentation/segdata/data_2d"
       }
     }
   ],
