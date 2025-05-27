@@ -1,7 +1,7 @@
 
 # Federated Learning Pipeline for Prostate Cancer Detection (PiCAI)
 
-This repository contains the code to train a federated learning model using [NVIDIA FLARE](https://github.com/NVIDIA/NVFlare) for prostate cancer detection. The setup follows a semi-supervised federated learning scheme over 5 simulated clients. Then how to produce the results used for holdout, kfold, minmax, and agnostic testing within the report.
+This repository contains the code to train a federated learning model using [NVIDIA FLARE](https://github.com/NVIDIA/NVFlare) for prostate cancer detection. The setup follows a semi-supervised federated learning scheme over 4 simulated clients. Then how to produce the results used for holdout, kfold, minmax, and agnostic testing within the report.
 
 # Darwin Project FL - Setup and Preprocessing
 
